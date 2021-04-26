@@ -8,7 +8,7 @@ The Peppy Pole, an anthropomorphicand interactive hiking pole prototype that mer
 
 Our prototype is made up of asmartphone collecting sensor data, sending the data to an ArduinoUno that actuates the expressions of the Pole with motors. The Peppy Pole design ouline is shown below:
 
-<img src="docs/PeppyPoleLayout">
+<img src="docs/PeppyPoleLayout.png">
 
 ## Get Started
 
@@ -22,7 +22,7 @@ $ cd PeppyPole
 ### 2. Download APK file to Android Phone
 
 1. Phase 1: **Peppy_Pole.apk** for outdoor functionality.
-2. Phase 2: **Peppy_Home** for indoor functionality.
+2. Phase 2: **Peppy_Home.apk** for indoor functionality.
 
 ### 3. Deploy Arduino Uno Code
 
